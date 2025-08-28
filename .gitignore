@@ -50,6 +50,7 @@ hcpk_stub
 # Temporary files
 marker.tmp
 self_extract
+*_extractor
 
 # Extracted directories
 hcpk_extracted/
