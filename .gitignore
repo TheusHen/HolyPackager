@@ -39,3 +39,18 @@
 
 # debug information files
 *.dwo
+
+# Built binaries
+packager
+hcpk_stub
+
+# Package files
+*.hcpk
+
+# Temporary files
+marker.tmp
+self_extract
+*_extractor
+
+# Extracted directories
+hcpk_extracted/
